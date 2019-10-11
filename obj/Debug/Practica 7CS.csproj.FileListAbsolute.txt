@@ -1,0 +1,7 @@
+C:\Users\Mario H\source\repos\Practica6CS\Practica 7CS\obj\Debug\Practica 7CS.csprojAssemblyReference.cache
+C:\Users\Mario H\source\repos\Practica6CS\Practica 7CS\obj\Debug\Practica 7CS.csproj.CoreCompileInputs.cache
+C:\Users\Mario H\source\repos\Practica6CS\Practica 7CS\bin\Debug\Practica7CS.exe.config
+C:\Users\Mario H\source\repos\Practica6CS\Practica 7CS\bin\Debug\Practica7CS.exe
+C:\Users\Mario H\source\repos\Practica6CS\Practica 7CS\bin\Debug\Practica7CS.pdb
+C:\Users\Mario H\source\repos\Practica6CS\Practica 7CS\obj\Debug\Practica7CS.exe
+C:\Users\Mario H\source\repos\Practica6CS\Practica 7CS\obj\Debug\Practica7CS.pdb
